@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there, I'm Fred 👋
 
-<!--
-**phredreeq/phredreeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cybersecurity Student | SOC Analyst in Training
 
-Here are some ideas to get you started:
+I'm on a #50DaysOfCybersecurity challenge — building 
+hands-on security projects every day and documenting 
+my journey publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on Blue Team security — detecting threats,
+investigating incidents, and building detection logic
+using real industry tools.
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Tools |
+|---|---|
+| **SIEM** | Splunk |
+| **Programming** | Python |
+| **Detection** | SPL, Threshold Logic, Correlation |
+| **ML Security** | Scikit-learn, Isolation Forest |
+| **Data Analysis** | Pandas, Matplotlib |
+| **Logs** | Windows Event Logs |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Brute Force Detection Using Splunk
+Developed SIEM-based detection logic for brute force
+attacks using Windows Event Logs and SPL queries.
+Applied threshold and correlation logic to automatically
+flag attacker IPs.
+
+🔗 [View Project](https://github.com/Phredreeq/brute-force-detection)
+
+---
+
+### 📋 Incident Investigation Report
+Conducted a full SOC analyst investigation on a
+confirmed brute force attack. Documented attack
+timeline, evidence, analysis and incident response
+recommendations.
+
+🔗 [View Project](https://github.com/Phredreeq/incident-investigation-report)
+
+---
+
+### 🤖 Anomaly Detection Using Machine Learning
+Built an Isolation Forest ML model to detect suspicious
+login behaviour automatically. Model flagged 10
+suspicious logins from 100 records without being
+explicitly told what an attack looks like.
+
+🔗 [View Project](https://github.com/Phredreeq/anomaly-detection-login-behaviour)
+
+---
+
+## 📊 Current Challenge
+🗓️ #50DaysOfCybersecurity
+█████░░░░░░░░░░░░░░░░░░░░ Day 3/50
+Follow my journey on:
+- 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
+
+---
+
+## 📚 Currently Learning
+- SOC Analysis & Threat Detection
+- SIEM Tools & Log Analysis
+- Machine Learning for Security
+- Network Security & Forensics
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
+- GitHub: github.com/Phredreeq
+
+---
+
+⭐ *"Security is not a product, it's a process"*
