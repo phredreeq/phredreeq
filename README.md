@@ -60,6 +60,7 @@ explicitly told what an attack looks like.
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
 █████░░░░░░░░░░░░░░░░░░░░ Day 3/50
+
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
 
