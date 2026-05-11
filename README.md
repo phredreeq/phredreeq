@@ -57,9 +57,18 @@ explicitly told what an attack looks like.
 
 ---
 
+### 🔍 Password Spray Detection Using Splunk
+Detected password spray attacks using distinct count 
+SPL analysis to identify IPs targeting multiple 
+accounts while staying below lockout thresholds.
+
+🔗 [View Project](https://github.com/Phredreeq/password-spray-detection)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-█████░░░░░░░░░░░░░░░░░░░░ Day 3/50
+█████░░░░░░░░░░░░░░░░░░░░ Day 4/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
