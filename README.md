@@ -66,9 +66,18 @@ accounts while staying below lockout thresholds.
 
 ---
 
+### 🌐 Network Traffic Analysis Using Wireshark
+Captured and analyzed real port scan traffic using 
+Wireshark and Nmap on Kali Linux. Identified open 
+ports and suspicious protocol patterns.
+
+🔗 [View Project](https://github.com/Phredreeq/network-traffic-analysis-wireshark)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-█████░░░░░░░░░░░░░░░░░░░░ Day 4/50
+█████░░░░░░░░░░░░░░░░░░░░ Day 5/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
