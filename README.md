@@ -1,4 +1,4 @@
-# Hi there, I'm Fred 👋
+# Hi there, I'm Fredrick
 
 ## 🔐 Cybersecurity Student | SOC Analyst in Training
 
@@ -12,7 +12,7 @@ using real industry tools.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 | Category | Tools |
 |---|---|
@@ -25,9 +25,9 @@ using real industry tools.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔍 Brute Force Detection Using Splunk
+### Brute Force Detection Using Splunk
 Developed SIEM-based detection logic for brute force
 attacks using Windows Event Logs and SPL queries.
 Applied threshold and correlation logic to automatically
@@ -37,7 +37,7 @@ flag attacker IPs.
 
 ---
 
-### 📋 Incident Investigation Report
+### Incident Investigation Report
 Conducted a full SOC analyst investigation on a
 confirmed brute force attack. Documented attack
 timeline, evidence, analysis and incident response
@@ -47,7 +47,7 @@ recommendations.
 
 ---
 
-### 🤖 Anomaly Detection Using Machine Learning
+### Anomaly Detection Using Machine Learning
 Built an Isolation Forest ML model to detect suspicious
 login behaviour automatically. Model flagged 10
 suspicious logins from 100 records without being
@@ -57,7 +57,7 @@ explicitly told what an attack looks like.
 
 ---
 
-### 🔍 Password Spray Detection Using Splunk
+### Password Spray Detection Using Splunk
 Detected password spray attacks using distinct count 
 SPL analysis to identify IPs targeting multiple 
 accounts while staying below lockout thresholds.
@@ -66,7 +66,7 @@ accounts while staying below lockout thresholds.
 
 ---
 
-### 🌐 Network Traffic Analysis Using Wireshark
+### Network Traffic Analysis Using Wireshark
 Captured and analyzed real port scan traffic using 
 Wireshark and Nmap on Kali Linux. Identified open 
 ports and suspicious protocol patterns.
@@ -84,7 +84,7 @@ Follow my journey on:
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - SOC Analysis & Threat Detection
 - SIEM Tools & Log Analysis
 - Machine Learning for Security
