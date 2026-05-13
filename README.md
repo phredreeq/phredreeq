@@ -84,9 +84,18 @@ against simulated firewall logs.
 
 ---
 
+### 🌐 DNS Analysis & Threat Detection
+Detected DNS tunneling and DGA malware using 
+Splunk SPL query length analysis and NXDOMAIN 
+failure pattern detection.
+
+🔗 [View Project](https://github.com/Phredreeq/dns-analysis-threat-detection)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-███████░░░░░░░░░░░░░░░░░░ Day 6/50
+████████░░░░░░░░░░░░░░░░░ Day 7/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
