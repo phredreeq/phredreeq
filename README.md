@@ -75,9 +75,18 @@ ports and suspicious protocol patterns.
 
 ---
 
+### Firewall Log Analysis Using Splunk
+Detected port scanning and targeted attacks on 
+sensitive ports using SPL distinct count analysis 
+against simulated firewall logs.
+
+🔗 [View Project](https://github.com/Phredreeq/firewall-log-analysis)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-█████░░░░░░░░░░░░░░░░░░░░ Day 5/50
+███████░░░░░░░░░░░░░░░░░░ Day 6/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
