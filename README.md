@@ -92,21 +92,30 @@ failure pattern detection.
 🔗 [View Project](https://github.com/Phredreeq/dns-analysis-threat-detection)
 
 ---
+### 📡 Networking Fundamentals for SOC Analysts
+Deep dive into IP addressing, subnetting and the
+OSI model — mapping every attack to its layer and
+understanding the networking foundation of SOC work.
+
+🔗 [View Project](https://github.com/Phredreeq/networking-fundamentals-notes)
+
+---
 
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-████████░░░░░░░░░░░░░░░░░ Day 7/50
+████████░░░░░░░░░░░░░░░░░ Day 8/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
 
 ---
 
-## Currently Learning
-- SOC Analysis & Threat Detection
-- SIEM Tools & Log Analysis
-- Machine Learning for Security
-- Network Security & Forensics
+## 📚 Currently Learning
+- TCP/IP and Network Protocol Analysis
+- Wireshark Packet Capture and Analysis
+- pfSense Firewall Configuration
+- Linux and Windows Security Hardening
+- Threat Hunting with MITRE ATT&CK
 
 ---
 
