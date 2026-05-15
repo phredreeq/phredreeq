@@ -101,9 +101,18 @@ understanding the networking foundation of SOC work.
 
 ---
 
+### 🔗 TCP/IP Traffic Analysis
+Captured and analyzed real TCP 3-way handshakes
+using Wireshark — identifying SYN, SYN-ACK and
+ACK packets with flag and sequence number analysis.
+
+🔗 [View Project](https://github.com/Phredreeq/tcp-ip-traffic-analysis)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-████████░░░░░░░░░░░░░░░░░ Day 8/50
+█████████░░░░░░░░░░░░░░░░ Day 9/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
