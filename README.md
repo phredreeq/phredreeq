@@ -110,9 +110,18 @@ ACK packets with flag and sequence number analysis.
 
 ---
 
+### 🌐 HTTP, DNS and ARP Traffic Analysis
+Captured and analyzed real HTTP, DNS and ARP
+traffic using Wireshark — demonstrating normal
+protocol behaviour and security vulnerabilities.
+
+🔗 [View Project](https://github.com/Phredreeq/http-dns-arp-traffic-analysis)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-█████████░░░░░░░░░░░░░░░░ Day 9/50
+██████████░░░░░░░░░░░░░░░ Day 10/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
