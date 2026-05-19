@@ -119,9 +119,18 @@ protocol behaviour and security vulnerabilities.
 
 ---
 
+### 🔥 pfSense Firewall Deep Dive
+Deep dive into pfSense firewall rule processing,
+NAT, DHCP DORA process and logging capabilities
+for SOC monitoring.
+
+🔗 [View Project](https://github.com/Phredreeq/pfsense-firewall-deep-dive)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-██████████░░░░░░░░░░░░░░░ Day 10/50
+███████████░░░░░░░░░░░░░░ Day 11/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
