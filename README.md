@@ -128,9 +128,18 @@ for SOC monitoring.
 
 ---
 
+### 🔥 pfSense Firewall Configuration
+Configured and tested real firewall rules blocking
+SSH and ICMP between VMs — diagnosed and fixed
+rule ordering misconfiguration in pfSense.
+
+🔗 [View Project](https://github.com/Phredreeq/pfsense-firewall-configuration)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-███████████░░░░░░░░░░░░░░ Day 11/50
+████████████░░░░░░░░░░░░░ Day 12/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
