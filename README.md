@@ -138,12 +138,12 @@ rule ordering misconfiguration in pfSense.
 ---
 
 ### 📡 pfSense Real-Time Log Forwarding
-Configured real-time syslog pipeline from pfSense
-firewall to Splunk SIEM — verified using tcpdump
-and Splunk search queries.
+Built complete syslog pipeline from pfSense to
+Splunk — 608 real firewall events confirmed.
+Independently diagnosed and fixed two configuration
+errors during troubleshooting.
 
 🔗 [View Project](https://github.com/Phredreeq/pfsense-splunk-log-forwarding)
-
 ---
 
 ## 📊 Current Challenge
