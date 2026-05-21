@@ -137,9 +137,18 @@ rule ordering misconfiguration in pfSense.
 
 ---
 
+### 📡 pfSense Real-Time Log Forwarding
+Configured real-time syslog pipeline from pfSense
+firewall to Splunk SIEM — verified using tcpdump
+and Splunk search queries.
+
+🔗 [View Project](https://github.com/Phredreeq/pfsense-splunk-log-forwarding)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-████████████░░░░░░░░░░░░░ Day 12/50
+█████████████░░░░░░░░░░░░ Day 13/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
