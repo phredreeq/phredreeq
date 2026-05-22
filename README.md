@@ -144,11 +144,21 @@ Independently diagnosed and fixed two configuration
 errors during troubleshooting.
 
 🔗 [View Project](https://github.com/Phredreeq/pfsense-splunk-log-forwarding)
+
+---
+
+### 🌐 VLAN and Network Segmentation
+Deep dive into VLAN concepts — Layer 2 isolation
+vs Layer 3 subnetting, tagged vs untagged ports
+and security benefits of network segmentation.
+
+🔗 [View Project](https://github.com/Phredreeq/vlan-network-segmentation-concepts)
+
 ---
 
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-█████████████░░░░░░░░░░░░ Day 13/50
+██████████████░░░░░░░░░░░ Day 14/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
