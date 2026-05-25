@@ -156,9 +156,18 @@ and security benefits of network segmentation.
 
 ---
 
+### 🌐 pfSense VLAN Configuration
+Implemented three-zone VLAN segmentation —
+Attack, Server and Management networks —
+with verified gateway connectivity.
+
+🔗 [View Project](https://github.com/Phredreeq/pfsense-vlan-configuration)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-██████████████░░░░░░░░░░░ Day 14/50
+███████████████░░░░░░░░░░ Day 15/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
