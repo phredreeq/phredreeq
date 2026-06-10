@@ -165,9 +165,17 @@ with verified gateway connectivity.
 
 ---
 
+### 🐧 Linux Security Fundamentals
+Deep dive into Linux file system, user permissions,
+SSH hardening and log analysis for SOC analysts.
+
+🔗 [View Project](https://github.com/Phredreeq/linux-security-fundamentals)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-███████████████░░░░░░░░░░ Day 15/50
+████████████████░░░░░░░░░ Day 16/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
