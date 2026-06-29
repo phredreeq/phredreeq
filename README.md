@@ -173,9 +173,18 @@ SSH hardening and log analysis for SOC analysts.
 
 ---
 
+### 🔒 Ubuntu Server Hardening
+Complete security audit and hardening — SSH
+configuration, service auditing, UFW firewall
+and authentication log analysis.
+
+🔗 [View Project](https://github.com/Phredreeq/ubuntu-server-hardening)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-████████████████░░░░░░░░░ Day 16/50
+█████████████████░░░░░░░░ Day 17/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
