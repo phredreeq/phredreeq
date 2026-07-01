@@ -182,9 +182,18 @@ and authentication log analysis.
 
 ---
 
+### 📋 Linux Log Analysis
+Complete guide to Linux log files for SOC
+analysts — /var/log explained, attack pattern
+detection and log tampering identification.
+
+🔗 [View Project](https://github.com/Phredreeq/linux-log-analysis)
+
+---
+
 ## 📊 Current Challenge
 🗓️ #50DaysOfCybersecurity
-█████████████████░░░░░░░░ Day 17/50
+█████████████████░░░░░░░░ Day 18/50
 
 Follow my journey on:
 - 💼 LinkedIn: https://www.linkedin.com/in/fredrick-agufenwa-09bab9165
